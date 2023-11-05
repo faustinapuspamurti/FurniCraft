@@ -1,0 +1,60 @@
+.introAbout {
+    height: 120px;
+    text-align: center;
+    font-family: "Poppins";
+}
+
+.introAbout h2 {
+    margin-top: 100px;
+    color: #254A99;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.introAbout h3 {
+    font-size: 14px;
+    color: #254A99;
+    margin-bottom: 3px;
+}
+.profile-owner {
+    height: 500px;
+    font-family: "Poppins";
+}
+
+.info-owner h2 {
+    font-size: 45px;
+    margin-top: 85px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #254A99;
+}
+
+.info-owner p {
+    padding-top: 3px;
+    font-size: 14px;
+    text-align: left;
+    color: rgba(75, 75, 75, 0.856);
+}
+
+.foto img {
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.table th {
+    color: #254A99;
+    font-family: "Poppins";
+}
+
+th {
+    text-align: left;
+    font-size: 25px;
+    border: none;
+}
+
+.th-tempuh {
+    text-align: left;
+    border: none;
+    font-family: "Poppins";
+}

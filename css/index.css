@@ -1,0 +1,106 @@
+.intro {
+    height: 480px;
+    font-family: "Poppins";
+}
+
+.intro h2 {
+    margin-top: 220px;
+    color: #254A99;
+    font-size: 40px;
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.intro h3 {
+    color: #254A99;
+    font-size: 30px;
+    margin-top: 15px;
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.intro p {
+    font-size: 13px;
+    color: rgba(75, 75, 75, 0.856);
+    margin-top: 15px;
+    margin-bottom: 3px;
+    text-align: left;
+}
+
+.intro img {
+    float: right;
+    position: relative;
+    top: -340px;
+    height: 493px;
+}
+
+.btn-intro {
+    background-color: #254A99;
+    width: fit-content;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 52px;
+    margin-top: 20px;
+    opacity: 0.75;
+}
+
+.btn-intro a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.btn-intro:hover {
+    opacity: 1;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+
+.main {
+    width: 100%;
+}
+
+.main-wrapper {
+    background-color: white;
+    margin-bottom: 20px;
+    width: 1033px;
+    height: 450px;
+    margin: -100px auto;
+    border-radius: 33px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 2px rgba(0, 0, 0, 0.08);
+}
+
+.main-wrapper h2 {
+    text-align: center;
+    font-size: 30px;
+    color: #254A99;
+    font-weight: bold;
+    font-family: "Poppins";
+    margin-bottom: 30px;
+}
+
+.main-wrapper h3 {
+    padding: 34px 0 0 0;
+    font-size: 16px;
+    text-align: center;
+    color: #254A99;
+    font-family: "Poppins";
+}
+
+.kategori {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 0 100px 0 100px;
+}
+
+.category {
+    margin: 0 auto;
+
+}
+
+.category img {
+    width: 200px;
+
+}
